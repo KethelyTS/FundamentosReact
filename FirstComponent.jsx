@@ -6,7 +6,3 @@ const FirstComponent = () => {
     )
 }
 export default FirstComponent;
-
-
-// import X from './components/X.jsx'
-// <FirstComponent/>
